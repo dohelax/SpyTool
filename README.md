@@ -1,4 +1,6 @@
 # SpyTool
+KURULUM 
+<br>
 git clone http://github.com/dohelavip/SpyTool
 <br>
 cd SpyTool 
